@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm Nico 👋
+</h3>
+
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Game Designer 🎮, and Teacher 🎓!
+</h2> 
+
 
 <!--
 **NicholasLepage/NicholasLepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
