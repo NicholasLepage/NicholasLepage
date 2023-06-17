@@ -1,8 +1,8 @@
-<h3 align="center">
+<h2 align="center">
 Hi there, I'm Nico 👋
 </h3>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Full-Stack Web Developer 💻, Game Designer 🎮, and Teacher 🎓!
 </h2> 
 
