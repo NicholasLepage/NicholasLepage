@@ -10,14 +10,17 @@ Hi there, I'm Nico 👋
 I'm a Full-Stack Web Developer 💻, Game Designer 🎮, and Teacher 🎓
 </h2> 
 
-
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/nicholas-lepage/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nicholas Lepage | LinkedIn" width="25px"/></a>
-<a href="mailto: nicholas.m.lepage@gmail.com"><img align="left" src="https://github.com/NicholasLepage/NicholasLepage/assets/36524168/20a742b7-b7a6-4598-8934-bfe74cff69e9" alt="Nicholas Lepage | LinkedIn" width="25px"/></a>
 </br>
 
+<p align="center">
+🤝 Connect with me:
+</p> 
+
+<div align="center">
+<a href="https://www.linkedin.com/in/nicholas-lepage/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nicholas Lepage | LinkedIn" width="30px"/></a>
+<a href="mailto:nicholas.m.lepage@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="mailto:nicholas.m.lepage@gmail.com" width="30px"/></a>
+</br>
+</div>
 
 
 <!--
