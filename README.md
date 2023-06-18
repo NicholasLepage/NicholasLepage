@@ -10,6 +10,16 @@ Hi there, I'm Nico 👋
 I'm a Full-Stack Web Developer 💻, Game Designer 🎮, and Teacher 🎓
 </h2> 
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/nicholas-lepage/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nicholas Lepage | LinkedIn" width="21px"/></a>
+
+
+## 🌱 I'm currently learning
+
+- Tailwind CSS
+- React Native
+- Unreal Engine 5.0
 
 <!--
 **NicholasLepage/NicholasLepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
