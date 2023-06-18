@@ -1,9 +1,13 @@
+<p align="center">
+  <a href="https://github.com/NicholasLepage" target="_blank" rel="noreferrer"><img src="https://github.com/NicholasLepage/NicholasLepage/assets/36524168/f2f18469-64cf-4fb0-bc0b-099b560bcfcb" alt="my banner"></a>
+</p>
+
 <h2 align="center">
 Hi there, I'm Nico 👋
 </h3>
 
 <h3 align="center">
-I'm a Full-Stack Web Developer 💻, Game Designer 🎮, and Teacher 🎓!
+I'm a Full-Stack Web Developer 💻, Game Designer 🎮, and Teacher 🎓
 </h2> 
 
 
